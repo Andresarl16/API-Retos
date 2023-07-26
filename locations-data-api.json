@@ -1,0 +1,82 @@
+[
+    {
+        "location_name": "Argentina",
+        "location_capital": "Buenos Aires",
+        "population": 45000000,
+        "area": 2780000,
+        "currency": "Peso Argentino",
+        "main_language": "Spanish"
+    },
+    {
+        "location_name": "Bolivia",
+        "location_capital": "Sucre / La Paz",
+        "population": 11500000,
+        "area": 1100000,
+        "currency": "Boliviano",
+        "main_language": "Spanish"
+    },
+    {
+        "location_name": "Brazil",
+        "location_capital": "Brasilia",
+        "population": 213000000,
+        "area": 8515767,
+        "currency": "Real Brasileño",
+        "main_language": "Portuguese"
+    },
+    {
+        "location_name": "Canada",
+        "location_capital": "Ottawa",
+        "population": 38000000,
+        "area": 9984670,
+        "currency": "Dolar Canadiense",
+        "main_language": "English"
+    },
+    {
+        "location_name": "Chile",
+        "location_capital": "Santiago",
+        "population": 19000000,
+        "area": 756096,
+        "currency": "Peso Chileno",
+        "main_language": "Spanish"
+    },
+    {
+        "location_name": "Colombia",
+        "location_capital": "Bogotá",
+        "population": 50000000,
+        "area": 1141748,
+        "currency": "Peso Colombiano",
+        "main_language": "Spanish"
+    },
+    {
+        "location_name": "Mexico",
+        "location_capital": "Ciudad de México",
+        "population": 129000000,
+        "area": 1964375,
+        "currency": "Peso Mexicano",
+        "main_language": "Spanish"
+    },
+    {
+        "location_name": "Peru",
+        "location_capital": "Lima",
+        "population": 33000000,
+        "area": 1285216,
+        "currency": "Sol Peruano",
+        "main_language": "Spanish"
+    },
+    {
+        "location_name": "United States",
+        "location_capital": "Washington D.C.",
+        "population": 332000000,
+        "area": 9833520,
+        "currency": "Dolar",
+        "main_language": "English"
+    },
+    {
+        "location_name": "Venezuela",
+        "location_capital": "Caracas",
+        "population": 28000000,
+        "area": 916445,
+        "currency": "Bolívar Soberano",
+        "main_language": "Spanish"
+    }
+]
